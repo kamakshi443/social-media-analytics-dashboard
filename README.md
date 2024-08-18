@@ -1,1 +1,1 @@
-# social-media-analytics-dashboard
+# Social media analytics dashboard
